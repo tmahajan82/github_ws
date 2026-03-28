@@ -1,1 +1,1 @@
-print("alpha one...obver to mossad..operation search light begins:1226HRS")
+print("alpha one..")
